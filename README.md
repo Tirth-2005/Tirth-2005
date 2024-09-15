@@ -14,7 +14,7 @@ I am a dedicated and highly motivated B.Tech Information Technology student spec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tspanchal/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tirth-2005)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916351188013)
+
 
 ### 📚 Education
 
@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 Feel free to reach out to me through the following platforms:
 
 - *Email:* [tirthpanchal2825@gmail.com](mailto:tirthpanchal2825@gmail.com)
-- *Phone:* [+91-635-118-8013](tel:+916351188013)
 
 ---
 
