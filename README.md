@@ -1,4 +1,4 @@
-## Hi there <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJuaXhpcHlkemk0ZTBlMHIydjNyZ3JmcnRvMjJnd2JtazQ1bjg1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="25">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 # Welcome to My GitHub Profile!
 
